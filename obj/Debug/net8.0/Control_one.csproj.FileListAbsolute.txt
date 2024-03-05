@@ -1,0 +1,15 @@
+G:\Control_one\bin\Debug\net8.0\Control_one.exe
+G:\Control_one\bin\Debug\net8.0\Control_one.deps.json
+G:\Control_one\bin\Debug\net8.0\Control_one.runtimeconfig.json
+G:\Control_one\bin\Debug\net8.0\Control_one.dll
+G:\Control_one\bin\Debug\net8.0\Control_one.pdb
+G:\Control_one\obj\Debug\net8.0\Control_one.GeneratedMSBuildEditorConfig.editorconfig
+G:\Control_one\obj\Debug\net8.0\Control_one.AssemblyInfoInputs.cache
+G:\Control_one\obj\Debug\net8.0\Control_one.AssemblyInfo.cs
+G:\Control_one\obj\Debug\net8.0\Control_one.csproj.CoreCompileInputs.cache
+G:\Control_one\obj\Debug\net8.0\Control_one.sourcelink.json
+G:\Control_one\obj\Debug\net8.0\Control_one.dll
+G:\Control_one\obj\Debug\net8.0\refint\Control_one.dll
+G:\Control_one\obj\Debug\net8.0\Control_one.pdb
+G:\Control_one\obj\Debug\net8.0\Control_one.genruntimeconfig.cache
+G:\Control_one\obj\Debug\net8.0\ref\Control_one.dll
